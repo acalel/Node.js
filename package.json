@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/acalel/Node.js/issues"
   },
-  "homepage": "https://github.com/acalel/Node.js#readme"
+  "homepage": "https://github.com/acalel/Node.js#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
